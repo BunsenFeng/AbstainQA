@@ -2,9 +2,15 @@
 
 This is the official repo for [Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration](https://arxiv.org/abs/2402.00367) @ ACL 2024.
 
+### Environment
+
+```
+conda env create -f abstainqa.yaml
+```
+
 ### Methods
 
-We provide the implementation of 13 baselines and proposed approaches in the paper. Each `approach-<name>` file contains the implementation of the corresponding approach. Shared parameters for each approach:
+We provide the implementation of 13 baselines and proposed approaches in the paper. Each `approach-<name>.py` file contains the implementation of the corresponding approach. Shared parameters for each approach:
 
 ```
 -m MODEL, --model MODEL
@@ -177,6 +183,10 @@ options:
 ```
 
 Please specify a model in `-a`, same or different from `-m`, to challenge the `-m` and generate conflicting knowledge paragraphs.
+
+#### Your Approach
+
+`approach-yours.py` provides a skeleton for adding your approach. Basically, just adding ways of getting `abstain_flags` and `abstain_scores` if any indicating whether the LLM should abstain for questions based on your methodology.
 
 ### Models
 
