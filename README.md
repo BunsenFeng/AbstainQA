@@ -186,7 +186,7 @@ Please specify a model in `-a`, same or different from `-m`, to challenge the `-
 
 #### Your Approach
 
-`approach-yours.py` provides a skeleton for adding your approach. Basically, just adding ways of getting `abstain_flags` and `abstain_scores` if any indicating whether the LLM should abstain for questions based on your methodology.
+`approach-yours.py` provides a skeleton for adding your approach. Basically, just adding ways of getting `abstain_flags` and `abstain_scores` (if any) indicating whether the LLM should abstain for questions based on your methodology.
 
 ### Models
 
