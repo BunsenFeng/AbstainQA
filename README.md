@@ -81,7 +81,7 @@ Default hyperparameters are provided for these options of verifier training, so 
 
 #### Training: `approach-instructiontune.py`
 
-The `Instruction Tuning` approach in Section 2.2
+The `Instruction Tuning` approach in Section 2.2.
 
 ```
 approach-instructiontune.py [-m MODEL] [-d DATASET] [-o PORTION] [-s SETTING] [-t TUNED_MODEL_NAME]
