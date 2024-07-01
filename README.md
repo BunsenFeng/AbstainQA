@@ -93,7 +93,7 @@ options:
                         name of the tuned model, either chatgpt via OpenAI API or local/hf copy of tuned model path
 ```
 
-1) Run `-s generat` first to generate SFT data for abstention.
+1) Run `-s generate` first to generate SFT data for abstention.
 2) SFT the model. If `chatgpt`, do it on your own with the OpenAI API. If other open models, we provide `sft.py` as a bare-bone implementation. Feel free to use your own SFT code though.
 3) Run `-s evaluate` with `-t <tuned_model>`, OpenAI model ID for chatgpt and local/hf path for open models.
 
