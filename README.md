@@ -170,7 +170,7 @@ options:
   -t TYPE, --type TYPE  approach type, self or others
 ```
 
-`-t self` means self-feedbacks by specializing the LLM itself into different expert domains (math, facts, etc.) for feedback generation and make abstain decisions. `-t others` incidate having other LLMs generate feedback on the proposed answer. By default we have `mistral`, `llama2_70b`, and `chatgpt`: the one you chose with `-m` will propose an answer, and these three models will generate feedbacks, finally `chatgpt` makes an abstain decision (like an area chair) with the proposed answer and feedback from other LLMs. Change the models in line 86 if you want: these will have to be implemented in `lm_utils.py`.
+`-t self` means self-feedbacks by specializing the LLM itself into different expert domains (math, facts, etc.) for feedback generation and make abstain decisions. `-t others` incidates having other LLMs generate feedback on the proposed answer. By default we have `mistral`, `llama2_70b`, and `chatgpt`: the one you chose with `-m` will propose an answer, and these three models will generate feedbacks, finally `chatgpt` makes an abstain decision (like an area chair) with the proposed answer and feedback from other LLMs. Change the models in line 86 if you want: these will have to be implemented in `lm_utils.py`.
 
 #### Collaboration: `approach-compete.py`
 
