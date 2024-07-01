@@ -1,6 +1,6 @@
 # AbstainQA Repository
 
-This is the official repo for [From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://arxiv.org/abs/2402.00367) @ ACL 2024.
+This is the official repo for [Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration](https://arxiv.org/abs/2402.00367) @ ACL 2024.
 
 ### Methods
 
