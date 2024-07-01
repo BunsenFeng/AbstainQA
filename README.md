@@ -6,6 +6,7 @@ This is the official repo for [Don't Hallucinate, Abstain: Identifying LLM Knowl
 
 ```
 conda env create -f abstainqa.yaml
+conda activate abstainqa
 ```
 
 ### Methods
