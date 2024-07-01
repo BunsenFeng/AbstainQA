@@ -1,0 +1,3478 @@
+{
+    "dataset": "ElectionQA23",
+    "dev": [
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: Who announced that he will be stepping down following the formation of a new government?",
+            "choices": {
+                "A": "Hun Sen",
+                "B": "Hun Manet",
+                "C": "Sam Rainsy",
+                "D": "Kem Sokha"
+            },
+            "answer": "A",
+            "id": 163,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: Who did President Alejandro Giammattei congratulate for winning the runoff?",
+            "choices": {
+                "A": "Alejandro Giammattei",
+                "B": "Bernardo Ar\u00e9valo",
+                "C": "Sandra Torres",
+                "D": "Juan Jos\u00e9 Ar\u00e9valo"
+            },
+            "answer": "B",
+            "id": 96,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: Who is eligible to vote in general elections in Luxembourg?",
+            "choices": {
+                "A": "Foreigners who have lived in Luxembourg for at least ten years",
+                "B": "Luxembourgish citizens only",
+                "C": "European citizens residing in Luxembourg",
+                "D": "All residents of Luxembourg"
+            },
+            "answer": "B",
+            "id": 231,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Which candidate conceded and sent a congratulatory message to the winner?",
+            "choices": {
+                "A": "Nicos Anastasiades",
+                "B": "Nikos Christodoulides",
+                "C": "Andreas Mavroyiannis",
+                "D": "Averof Neofytou"
+            },
+            "answer": "C",
+            "id": 265,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023:  Was Xavier Bettel willing to participate in the government?",
+            "choices": {
+                "A": "Yes, as Prime Minister",
+                "B": "Yes, in a different role",
+                "C": "No, he declined the offer",
+                "D": "No, he was not approached for participation"
+            },
+            "answer": "B",
+            "id": 236,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: How are the members of the House of Representatives elected?",
+            "choices": {
+                "A": "Proportional representation",
+                "B": "First-past-the-post voting",
+                "C": "Ranked-choice voting",
+                "D": "Electoral college"
+            },
+            "answer": "B",
+            "id": 108,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: Who was appointed as government formateur with the intention of becoming the next Prime Minister?",
+            "choices": {
+                "A": "Xavier Bettel",
+                "B": "Luc Frieden",
+                "C": "Grand Duke Henri",
+                "D": "CSV leader"
+            },
+            "answer": "B",
+            "id": 234,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Who won the first round of the election?",
+            "choices": {
+                "A": "Sergio Massa",
+                "B": "Javier Milei",
+                "C": "Alberto Fern\u00e1ndez",
+                "D": "Cristina Fern\u00e1ndez de Kirchner"
+            },
+            "answer": "A",
+            "id": 241,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Why was Milo\u0161 Zeman not eligible to run in the 2023 presidential election?",
+            "choices": {
+                "A": "He did not want to run for re-election.",
+                "B": "He was impeached.",
+                "C": "He reached the two-term limit.",
+                "D": "He was disqualified by the electoral commission."
+            },
+            "answer": "C",
+            "id": 61,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023:  Who congratulated Javier Milei and expressed willingness to work with him for an orderly transition?",
+            "choices": {
+                "A": "Sergio Massa",
+                "B": "Alberto Fern\u00e1ndez",
+                "C": "Mauricio Macri",
+                "D": "Cristina Fern\u00e1ndez de Kirchner"
+            },
+            "answer": "B",
+            "id": 246,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: What positions were being elected in the general elections?",
+            "choices": {
+                "A": "President, House of Representatives, and half of the Senate",
+                "B": "President, Senate, and Supreme Court",
+                "C": "President, House of Representatives, and Governor",
+                "D": "President, Senate, and Governor"
+            },
+            "answer": "A",
+            "id": 111,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: What did pre-electoral polls suggest about the Zimbabwe election of 2023?",
+            "choices": {
+                "A": "A runoff election was likely",
+                "B": "A clear winner was expected in the first round",
+                "C": "Voter turnout would be low",
+                "D": "There would be no violence during the election"
+            },
+            "answer": "A",
+            "id": 224,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: What percentage of the vote did Andry Rajoelina receive in the first round?",
+            "choices": {
+                "A": "58.95%",
+                "B": "46.36%",
+                "C": "20%",
+                "D": "100%"
+            },
+            "answer": "A",
+            "id": 133,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Who won the presidential election in Argentina in 2023?",
+            "choices": {
+                "A": "Sergio Massa",
+                "B": "Javier Milei",
+                "C": "Alberto Fern\u00e1ndez",
+                "D": "Cristina Fern\u00e1ndez de Kirchner"
+            },
+            "answer": "B",
+            "id": 237,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: Who conceded on election night?",
+            "choices": {
+                "A": "Chris Hipkins",
+                "B": "Christopher Luxon",
+                "C": "Jacinda Ardern",
+                "D": "Nanaia Mahuta"
+            },
+            "answer": "A",
+            "id": 205,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: Which independent politician filed his candidacy due to \"continued neglect\" of the citizens?",
+            "choices": {
+                "A": "Carty Anderson",
+                "B": "Gail Pero-Weston",
+                "C": "Trevor Walker",
+                "D": "Asot Michael"
+            },
+            "answer": "A",
+            "id": 46,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023:  Which organizations congratulated Liberia on the \"largely\" peaceful elections?",
+            "choices": {
+                "A": "ECOWAS and the United States",
+                "B": "European Union and the United States",
+                "C": "ECOWAS and European Union",
+                "D": "United Nations and the United States"
+            },
+            "answer": "A",
+            "id": 119,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: How long has Abdel Fattah el-Sisi been in power?",
+            "choices": {
+                "A": "4 years",
+                "B": "6 years",
+                "C": "8 years",
+                "D": "10 years"
+            },
+            "answer": "B",
+            "id": 82,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: How often are general elections held in Nigeria?",
+            "choices": {
+                "A": "Every 2 years",
+                "B": "Every 4 years",
+                "C": "Every 6 years",
+                "D": "Every 8 years"
+            },
+            "answer": "B",
+            "id": 100,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: What percentage of the vote did Luisa Gonz\u00e1lez win in the first round?",
+            "choices": {
+                "A": "33%",
+                "B": "24%",
+                "C": "52%",
+                "D": "35%"
+            },
+            "answer": "A",
+            "id": 213,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: What percentage of the vote did President Shavkat Mirziyoyev receive in the elections?",
+            "choices": {
+                "A": "Less than 50%",
+                "B": "Exactly 50%",
+                "C": "Over 80%",
+                "D": "Over 90%"
+            },
+            "answer": "C",
+            "id": 37,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: Which positions will be elected in the upcoming elections?",
+            "choices": {
+                "A": "President, National Assembly members, provincial assembly members",
+                "B": "President, National Assembly members, provincial assembly members, commune council members",
+                "C": "President, National Assembly members, provincial assembly members, commune council members, senators",
+                "D": "President, National Assembly members, provincial assembly members, commune council members, senators, governors"
+            },
+            "answer": "B",
+            "id": 51,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: When were the election results annulled?",
+            "choices": {
+                "A": "26 August 2023",
+                "B": "30 August 2023",
+                "C": "14 years ago",
+                "D": "1960"
+            },
+            "answer": "B",
+            "id": 195,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How many single member constituencies were there in the 2018 elections?",
+            "choices": {
+                "A": "62",
+                "B": "438",
+                "C": "500",
+                "D": "300"
+            },
+            "answer": "A",
+            "id": 56,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: What did the Supreme Electoral Tribunal condemn as \"illegal\"?",
+            "choices": {
+                "A": "Opening of electoral boxes",
+                "B": "Electoral fraud",
+                "C": "Constitutional Court injunction",
+                "D": "False signatures"
+            },
+            "answer": "A",
+            "id": 98,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023:  Which party saw a decline in support during the campaign?",
+            "choices": {
+                "A": "Party for Freedom (PVV)",
+                "B": "GroenLinks\u2013PvdA (GL-PvdA)",
+                "C": "VVD",
+                "D": "Farmer\u2013Citizen Movement"
+            },
+            "answer": "D",
+            "id": 179,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023:  What was the previous decision regarding the country's embassy in Israel?",
+            "choices": {
+                "A": "It was moved from Tel Aviv to Jerusalem",
+                "B": "It was moved from Jerusalem to Tel Aviv",
+                "C": "It was closed down",
+                "D": "It remained in Tel Aviv"
+            },
+            "answer": "A",
+            "id": 9,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How are members of the commune councils elected?",
+            "choices": {
+                "A": "First-past-the-post voting",
+                "B": "Proportional representation",
+                "C": "Open list method",
+                "D": "Largest remainder method"
+            },
+            "answer": "C",
+            "id": 58,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Who finished third in the first round of the presidential election?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "B",
+            "id": 142,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: When were Hun Manet and his cabinet subject to a vote of confidence from the National Assembly?",
+            "choices": {
+                "A": "23 July 2023",
+                "B": "26 July 2023",
+                "C": "22 August 2023",
+                "D": "7 August 2023"
+            },
+            "answer": "C",
+            "id": 166,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: Which party gained more national councillors than the FDP in the Romandy region?",
+            "choices": {
+                "A": "Swiss People's Party (SVP)",
+                "B": "Green and Green Liberal Parties",
+                "C": "Ticino League and Geneva Citizens Movement",
+                "D": "The Centre"
+            },
+            "answer": "A",
+            "id": 185,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: Which parties formed the ruling conservative coalition government?",
+            "choices": {
+                "A": "Move Forward, Pheu Thai, Palang Pracharath",
+                "B": "Pheu Thai, Bhumjai Thai, Democrat",
+                "C": "Palang Pracharath, Bhumjai Thai, Democrat",
+                "D": "United Thai Nation, Pheu Thai, Democrat"
+            },
+            "answer": "C",
+            "id": 78,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: Who was the candidate of the People's National Congress?",
+            "choices": {
+                "A": "Ibrahim Mohamed Solih",
+                "B": "Mohamed Nasheed",
+                "C": "Mohamed Muizzu",
+                "D": "Abdulla Yameen"
+            },
+            "answer": "C",
+            "id": 23,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: What was Santiago Pe\u00f1a's previous occupation before joining the International Monetary Fund?",
+            "choices": {
+                "A": "President of Paraguay",
+                "B": "Finance Minister",
+                "C": "Senator",
+                "D": "Economist at Paraguay's central bank"
+            },
+            "answer": "D",
+            "id": 6,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: How many military-appointed members are there in the Senate?",
+            "choices": {
+                "A": "100",
+                "B": "150",
+                "C": "200",
+                "D": "250"
+            },
+            "answer": "D",
+            "id": 75,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Who won the presidential elections in Cyprus in 2023?",
+            "choices": {
+                "A": "Nicos Anastasiades",
+                "B": "Nikos Christodoulides",
+                "C": "Andreas Mavroyiannis",
+                "D": "Averof Neofytou"
+            },
+            "answer": "B",
+            "id": 257,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: How much did the Egyptian pound lose in value from March 2022 to January 2023?",
+            "choices": {
+                "A": "Nearly half its value",
+                "B": "One-third of its value",
+                "C": "One-fourth of its value",
+                "D": "One-fifth of its value"
+            },
+            "answer": "A",
+            "id": 86,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023:  When will the proportional allocation of seats to electoral districts be finalized?",
+            "choices": {
+                "A": "26 November 2022",
+                "B": "15 June 2023",
+                "C": "20 December 2023",
+                "D": "2024"
+            },
+            "answer": "B",
+            "id": 59,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: Which party did Bernardo Ar\u00e9valo represent in the second round of the presidential election?",
+            "choices": {
+                "A": "Movimiento Semilla",
+                "B": "National Unity of Hope (UNE)",
+                "C": "Constitutional Court",
+                "D": "Supreme Electoral Tribunal"
+            },
+            "answer": "A",
+            "id": 92,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: What happens if none of the candidates receives more than 50% of the vote in the presidential elections?",
+            "choices": {
+                "A": "A second round is held",
+                "B": "The elections are declared invalid",
+                "C": "The candidate with the most votes wins",
+                "D": "The president is chosen by the parliament"
+            },
+            "answer": "A",
+            "id": 36,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: Which party won the most M\u0101ori seats from Labour?",
+            "choices": {
+                "A": "Labour Party",
+                "B": "National Party",
+                "C": "Green Party",
+                "D": "Te P\u0101ti M\u0101ori"
+            },
+            "answer": "D",
+            "id": 204,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: What percentage of the vote did el-Sisi win in the 2018 elections?",
+            "choices": {
+                "A": "97%",
+                "B": "80%",
+                "C": "60%",
+                "D": "40%"
+            },
+            "answer": "A",
+            "id": 83,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: What was the voter turnout in the election?",
+            "choices": {
+                "A": "64.27%",
+                "B": "30.77%",
+                "C": "56.65%",
+                "D": "41 years"
+            },
+            "answer": "C",
+            "id": 194,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: How many citizens had the right to vote in the general election?",
+            "choices": {
+                "A": "6,091",
+                "B": "60,916",
+                "C": "609,160",
+                "D": "6,091,600"
+            },
+            "answer": "B",
+            "id": 48,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023:  How many voters participated in the elections?",
+            "choices": {
+                "A": "Less than 10 million",
+                "B": "Exactly 10 million",
+                "C": "More than 10 million",
+                "D": "No voters participated"
+            },
+            "answer": "C",
+            "id": 39,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023:  How many times had Tan Kin Lian previously run as a presidential candidate?",
+            "choices": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "B",
+            "id": 159,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Which party did Sergio Massa belong to?",
+            "choices": {
+                "A": "Union for the Homeland",
+                "B": "Liberty Advances",
+                "C": "BRICS",
+                "D": "National Congress"
+            },
+            "answer": "A",
+            "id": 240,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: Who placed first in the first round of the elections?",
+            "choices": {
+                "A": "Joseph Boakai",
+                "B": "George Weah",
+                "C": "European Union observers",
+                "D": "ECOWAS"
+            },
+            "answer": "B",
+            "id": 113,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: Which parties saw a decline in their vote share in the 2023 Swiss election?",
+            "choices": {
+                "A": "Swiss People's Party (SVP)",
+                "B": "Green and Green Liberal Parties",
+                "C": "Ticino League and Geneva Citizens Movement",
+                "D": "The Centre"
+            },
+            "answer": "B",
+            "id": 180,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: How many single-seat constituencies are there for the Senate?",
+            "choices": {
+                "A": "36",
+                "B": "72",
+                "C": "109",
+                "D": "360"
+            },
+            "answer": "C",
+            "id": 107,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: When were the early general elections held in the Netherlands?",
+            "choices": {
+                "A": "2021",
+                "B": "2023",
+                "C": "2025",
+                "D": "2027"
+            },
+            "answer": "B",
+            "id": 170,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: Who were the incumbent president and vice president of Paraguay in 2023?",
+            "choices": {
+                "A": "Santiago Pe\u00f1a and Pedro Alliana",
+                "B": "Mario Abdo Ben\u00edtez and Hugo Vel\u00e1zquez Moreno",
+                "C": "Efra\u00edn Alegre and Paraguayo Cubas",
+                "D": "Horacio Cartes and Mario Abdo Ben\u00edtez"
+            },
+            "answer": "B",
+            "id": 0,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How are members of the National Assembly elected in electoral districts with only one seat?",
+            "choices": {
+                "A": "First-past-the-post voting",
+                "B": "Proportional representation",
+                "C": "Open list method",
+                "D": "Largest remainder method"
+            },
+            "answer": "A",
+            "id": 53,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How are members of the National Assembly elected in electoral districts with multiple seats?",
+            "choices": {
+                "A": "First-past-the-post voting",
+                "B": "Proportional representation",
+                "C": "Open list method",
+                "D": "Largest remainder method"
+            },
+            "answer": "B",
+            "id": 54,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Who was the presidential candidate for the Nation Alliance?",
+            "choices": {
+                "A": "Recep Tayyip Erdo\u011fan",
+                "B": "Kemal K\u0131l\u0131\u00e7daro\u011flu",
+                "C": "Muharrem \u0130nce",
+                "D": "Sinan O\u011fan"
+            },
+            "answer": "B",
+            "id": 251,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: Which organization stated that there were \"statistical inconsistencies\" in the presidential results published?",
+            "choices": {
+                "A": "All People's Congress",
+                "B": "European Union Election Observation Mission",
+                "C": "Sierra Leone People's Party",
+                "D": "The Carter Center"
+            },
+            "answer": "B",
+            "id": 127,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: Which voting system was used in the 2023 Thailand election?",
+            "choices": {
+                "A": "Mixed-member apportionment system",
+                "B": "Parallel voting system",
+                "C": "First-past-the-post system",
+                "D": "Proportional representation system"
+            },
+            "answer": "B",
+            "id": 73,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: What reason did the All People's Congress give for demanding a rerun of the election in 2023?",
+            "choices": {
+                "A": "Statistical inconsistencies",
+                "B": "Glaring irregularities",
+                "C": "Transparency compromise",
+                "D": "European election observers"
+            },
+            "answer": "B",
+            "id": 126,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Who was elected as the President of the Czech Republic in 2023?",
+            "choices": {
+                "A": "Milo\u0161 Zeman",
+                "B": "Petr Pavel",
+                "C": "Andrej Babi\u0161",
+                "D": "Petr Fiala"
+            },
+            "answer": "B",
+            "id": 60,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: How many seats did the Sierra Leone People's Party win in Parliament in the 2023 election?",
+            "choices": {
+                "A": "54",
+                "B": "81",
+                "C": "10",
+                "D": "7"
+            },
+            "answer": "B",
+            "id": 122,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: Who has been the Prime Minister of Cambodia since January 1985?",
+            "choices": {
+                "A": "Hun Sen",
+                "B": "Hun Manet",
+                "C": "Sam Rainsy",
+                "D": "Kem Sokha"
+            },
+            "answer": "A",
+            "id": 167,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: Who won the most seats in the 2023 Thailand election?",
+            "choices": {
+                "A": "Pita Limjaroenrat",
+                "B": "Pheu Thai",
+                "C": "Prayut Chan-o-cha",
+                "D": "Srettha Thavisin"
+            },
+            "answer": "A",
+            "id": 70,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: What percentage of the vote did Javier Milei receive in the runoff election?",
+            "choices": {
+                "A": "36%",
+                "B": "30%",
+                "C": "55.7%",
+                "D": "11%"
+            },
+            "answer": "C",
+            "id": 243,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Which party supported Andreas Mavroyiannis in the first round?",
+            "choices": {
+                "A": "Democratic Rally (DISY)",
+                "B": "Democratic Party (DIKO)",
+                "C": "Movement for Social Democracy (EDEK)",
+                "D": "Progressive Party of Working People (AKEL)"
+            },
+            "answer": "D",
+            "id": 260,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023:  How many days were designated for voting in the Zimbabwe election of 2023?",
+            "choices": {
+                "A": "1 day",
+                "B": "2 days",
+                "C": "3 days",
+                "D": "4 days"
+            },
+            "answer": "B",
+            "id": 226,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: What were the campaign issues in the election?",
+            "choices": {
+                "A": "Paraguay's relationship with Taiwan, allegations of corruption, and the state of the economy",
+                "B": "Paraguay's relationship with China, allegations of corruption, and the state of the economy",
+                "C": "Paraguay's relationship with Taiwan, allegations of corruption, and foreign policy",
+                "D": "Paraguay's relationship with China, allegations of corruption, and foreign policy"
+            },
+            "answer": "A",
+            "id": 4,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: Which countries and organizations echoed the sentiments of the European Union and The Carter Center?",
+            "choices": {
+                "A": "All People's Congress",
+                "B": "European Union Election Observation Mission",
+                "C": "Sierra Leone People's Party",
+                "D": "United States, Britain, Ireland, Germany, France, and the European Union"
+            },
+            "answer": "D",
+            "id": 128,
+            "country": "sierra leone",
+            "continent": "africa"
+        }
+    ],
+    "test": [
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: What did Sandra Torres allege in relation to the electoral result?",
+            "choices": {
+                "A": "Electoral fraud",
+                "B": "Opening of electoral boxes",
+                "C": "False signatures",
+                "D": "Constitutional Court injunction"
+            },
+            "answer": "A",
+            "id": 97,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: Who won the majority of the votes in the 2023 Singapore presidential elections?",
+            "choices": {
+                "A": "Tharman Shanmugaratnam",
+                "B": "Ng Kok Song",
+                "C": "Tan Kin Lian",
+                "D": "Halimah Yacob"
+            },
+            "answer": "A",
+            "id": 152,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: When were the local results of the 2023 Singapore presidential elections announced?",
+            "choices": {
+                "A": "1 September",
+                "B": "14 September",
+                "C": "12 September",
+                "D": "2 September"
+            },
+            "answer": "D",
+            "id": 157,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Which party overperformed polls by improving upon previous results and gained over 1 million votes?",
+            "choices": {
+                "A": "People's Party (PP)",
+                "B": "Spanish Socialist Workers' Party (PSOE)",
+                "C": "Vox",
+                "D": "Sumar"
+            },
+            "answer": "B",
+            "id": 17,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: What did the Labour Party (ABLP) propose to do in their manifesto?",
+            "choices": {
+                "A": "Raise the minimum wage",
+                "B": "Rebuild the sea landing in Barbuda",
+                "C": "Support a stable water supply",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "id": 44,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Which party supported Nikos Christodoulides in the first round?",
+            "choices": {
+                "A": "Democratic Rally (DISY)",
+                "B": "Democratic Party (DIKO)",
+                "C": "Movement for Social Democracy (EDEK)",
+                "D": "Progressive Party of Working People (AKEL)"
+            },
+            "answer": "B",
+            "id": 258,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023:  How many signatures were required for a candidate to stand in the election?",
+            "choices": {
+                "A": "50,000",
+                "B": "75,000",
+                "C": "100,000",
+                "D": "125,000"
+            },
+            "answer": "C",
+            "id": 256,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: When was the election postponed to?",
+            "choices": {
+                "A": "9 November",
+                "B": "12 October",
+                "C": "20 December",
+                "D": "16 November"
+            },
+            "answer": "D",
+            "id": 131,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: How many seats in Congress were up for election in the 2023 Guatemalan election?",
+            "choices": {
+                "A": "100",
+                "B": "160",
+                "C": "200",
+                "D": "340"
+            },
+            "answer": "B",
+            "id": 91,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: How many rounds are there in the election for the President of Nigeria?",
+            "choices": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "C",
+            "id": 102,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: Who finished second in the election?",
+            "choices": {
+                "A": "Party for Freedom (PVV)",
+                "B": "GroenLinks\u2013PvdA (GL-PvdA)",
+                "C": "VVD",
+                "D": "NSC"
+            },
+            "answer": "B",
+            "id": 175,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: How many seats are needed for a majority in the National Assembly?",
+            "choices": {
+                "A": "250",
+                "B": "376",
+                "C": "500",
+                "D": "750"
+            },
+            "answer": "B",
+            "id": 76,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: Which opposition party had previously won the most seats in the 2011 and 2019 elections?",
+            "choices": {
+                "A": "Move Forward Party",
+                "B": "Pheu Thai",
+                "C": "Palang Pracharath",
+                "D": "Bhumjai Thai"
+            },
+            "answer": "B",
+            "id": 71,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023:  What was the previous presidential election held in 2018 won by?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "C",
+            "id": 149,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: How are the members of the Chamber of Deputies elected?",
+            "choices": {
+                "A": "Direct voting by citizens",
+                "B": "Proportional representation in four multi-member constituencies",
+                "C": "Single-member constituencies",
+                "D": "Appointment by the Grand Duke"
+            },
+            "answer": "B",
+            "id": 229,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: How did European Union observers describe the runoff?",
+            "choices": {
+                "A": "Remarkably close and well administered",
+                "B": "Chaotic and poorly administered",
+                "C": "Peaceful but poorly administered",
+                "D": "Remarkably close but poorly administered"
+            },
+            "answer": "A",
+            "id": 118,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: What percentage of the votes did Muizzu receive in the first round?",
+            "choices": {
+                "A": "39%",
+                "B": "46%",
+                "C": "54%",
+                "D": "61%"
+            },
+            "answer": "B",
+            "id": 28,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: Who was the incumbent prime minister before the elections?",
+            "choices": {
+                "A": "Geert Wilders",
+                "B": "Mark Rutte",
+                "C": "Frans Timmermans",
+                "D": "Dilan Ye\u015filg\u00f6z"
+            },
+            "answer": "B",
+            "id": 172,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Who came second in the first round of the elections?",
+            "choices": {
+                "A": "Nicos Anastasiades",
+                "B": "Nikos Christodoulides",
+                "C": "Andreas Mavroyiannis",
+                "D": "Averof Neofytou"
+            },
+            "answer": "C",
+            "id": 259,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: What was the main reason for the economic crisis in Egypt since 2022?",
+            "choices": {
+                "A": "Russian invasion of Ukraine",
+                "B": "Political instability",
+                "C": "Corruption",
+                "D": "Trade deficit"
+            },
+            "answer": "A",
+            "id": 85,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: What led to the surprise early dissolution of parliament before the scheduled election date?",
+            "choices": {
+                "A": "Poor results of the left-wing bloc in the regional and local elections",
+                "B": "COVID-19 pandemic",
+                "C": "Economic recession",
+                "D": "Russian invasion of Ukraine"
+            },
+            "answer": "A",
+            "id": 15,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Who ruled Montenegro for more than three decades either as prime minister or as president?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "C",
+            "id": 148,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: Which party became the largest party in the House of Representatives?",
+            "choices": {
+                "A": "Party for Freedom (PVV)",
+                "B": "GroenLinks\u2013PvdA (GL-PvdA)",
+                "C": "VVD",
+                "D": "NSC"
+            },
+            "answer": "A",
+            "id": 173,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: What was the margin of victory in the second round?",
+            "choices": {
+                "A": "Less than 4%",
+                "B": "More than 4%",
+                "C": "Exactly 4%",
+                "D": "No margin of victory"
+            },
+            "answer": "A",
+            "id": 264,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Who conceded defeat and congratulated Petr Pavel?",
+            "choices": {
+                "A": "Milo\u0161 Zeman",
+                "B": "Petr Fiala",
+                "C": "Andrej Babi\u0161",
+                "D": "Petr Pavel"
+            },
+            "answer": "C",
+            "id": 67,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: What percentage of support did the proposed constitutional amendments receive in the referendum?",
+            "choices": {
+                "A": "Less than 50%",
+                "B": "Exactly 50%",
+                "C": "Over 90%",
+                "D": "Over 80%"
+            },
+            "answer": "C",
+            "id": 33,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: How many council seats were being competed for in the Zimbabwe election of 2023?",
+            "choices": {
+                "A": "1,970",
+                "B": "280",
+                "C": "60",
+                "D": "6"
+            },
+            "answer": "A",
+            "id": 220,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: When were the snap general elections held in Ecuador?",
+            "choices": {
+                "A": "17 May 2023",
+                "B": "20 August 2023",
+                "C": "15 October 2023",
+                "D": "25 November 2023"
+            },
+            "answer": "B",
+            "id": 207,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: Who began negotiations with Luc Frieden and Xavier Bettel?",
+            "choices": {
+                "A": "Democratic Party (DP)",
+                "B": "Luxembourg Socialist Workers' Party (LSAP)",
+                "C": "The Greens",
+                "D": "Christian Social People's Party (CSV)"
+            },
+            "answer": "D",
+            "id": 235,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: Who won the second round of the presidential election in 2023?",
+            "choices": {
+                "A": "Alejandro Giammattei",
+                "B": "Bernardo Ar\u00e9valo",
+                "C": "Sandra Torres",
+                "D": "Juan Jos\u00e9 Ar\u00e9valo"
+            },
+            "answer": "B",
+            "id": 93,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: What was the margin of victory in the runoff?",
+            "choices": {
+                "A": "51% to 49%",
+                "B": "49% to 51%",
+                "C": "50% to 50%",
+                "D": "60% to 40%"
+            },
+            "answer": "A",
+            "id": 116,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: What is the requirement for a presidential candidate to be declared elected in the first round?",
+            "choices": {
+                "A": "Simple majority of the vote",
+                "B": "Two-thirds majority of the vote",
+                "C": "Absolute majority of the vote",
+                "D": "Plurality of the vote"
+            },
+            "answer": "A",
+            "id": 222,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: When did Montenegro gain independence?",
+            "choices": {
+                "A": "1990",
+                "B": "1997",
+                "C": "2006",
+                "D": "2018"
+            },
+            "answer": "C",
+            "id": 146,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: Who was the incumbent President during the 2023 election?",
+            "choices": {
+                "A": "Muhammadu Buhari",
+                "B": "Goodluck Jonathan",
+                "C": "Olusegun Obasanjo",
+                "D": "Umaru Musa Yar'Adua"
+            },
+            "answer": "A",
+            "id": 101,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: Who conceded during a press conference and congratulated Tharman in advance?",
+            "choices": {
+                "A": "Ng Kok Song",
+                "B": "Tan Kin Lian",
+                "C": "Halimah Yacob",
+                "D": "Tharman Shanmugaratnam"
+            },
+            "answer": "A",
+            "id": 155,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: Who ran for re-election in the Gabonese election of 2023?",
+            "choices": {
+                "A": "Albert Ondo Ossa",
+                "B": "Michel Stephane Bonda",
+                "C": "Omar Bongo",
+                "D": "Ali Bongo"
+            },
+            "answer": "D",
+            "id": 187,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: What percentage of the candidates for the National Council are younger than 30 years old?",
+            "choices": {
+                "A": "30%",
+                "B": "40%",
+                "C": "50%",
+                "D": "60%"
+            },
+            "answer": "A",
+            "id": 183,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Which issue dominated the campaign?",
+            "choices": {
+                "A": "Deadly earthquake",
+                "B": "Rising cost of living",
+                "C": "Slow government response",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "id": 252,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: What is the date of the elections for the Federal Council?",
+            "choices": {
+                "A": "22 October 2023",
+                "B": "13 December 2023",
+                "C": "22 October 2022",
+                "D": "13 December 2022"
+            },
+            "answer": "B",
+            "id": 181,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: How many candidates were there in the election?",
+            "choices": {
+                "A": "2",
+                "B": "12",
+                "C": "3",
+                "D": "14"
+            },
+            "answer": "B",
+            "id": 193,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: Who was the candidate of the Jumhooree Party?",
+            "choices": {
+                "A": "Ibrahim Mohamed Solih",
+                "B": "Mohamed Nasheed",
+                "C": "Mohamed Muizzu",
+                "D": "Mohamed Nazim"
+            },
+            "answer": "D",
+            "id": 26,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: What event overshadowed the government's tenure after the November 2019 general election?",
+            "choices": {
+                "A": "COVID-19 pandemic",
+                "B": "Economic recession",
+                "C": "Russian invasion of Ukraine",
+                "D": "Political consequences"
+            },
+            "answer": "A",
+            "id": 11,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: Who retained his seat in Barbuda during the 2023 general election?",
+            "choices": {
+                "A": "Gaston Browne",
+                "B": "Trevor Walker",
+                "C": "Asot Michael",
+                "D": "Lovell"
+            },
+            "answer": "B",
+            "id": 42,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: When was the constitutional referendum held in Uzbekistan?",
+            "choices": {
+                "A": "9 July 2023",
+                "B": "30 April 2023",
+                "C": "15 March 2023",
+                "D": "1991"
+            },
+            "answer": "B",
+            "id": 32,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: What was the reason for delays in the election process?",
+            "choices": {
+                "A": "Logistical difficulties faced by the ZEC",
+                "B": "Voter apathy",
+                "C": "Lack of polling stations",
+                "D": "Political violence"
+            },
+            "answer": "A",
+            "id": 219,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023:  Who was the candidate chosen by former President Mohamed Nasheed?",
+            "choices": {
+                "A": "Ibrahim Mohamed Solih",
+                "B": "Mohamed Nasheed",
+                "C": "Mohamed Muizzu",
+                "D": "Ilyas Labeeb"
+            },
+            "answer": "D",
+            "id": 29,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Who announced Argentina's pause in their accession to BRICS?",
+            "choices": {
+                "A": "Javier Milei",
+                "B": "Sergio Massa",
+                "C": "Alberto Fern\u00e1ndez",
+                "D": "Diana Mondino"
+            },
+            "answer": "D",
+            "id": 245,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: When were the general elections held in Liberia?",
+            "choices": {
+                "A": "10 October 2023",
+                "B": "14 November 2023",
+                "C": "10 October 2022",
+                "D": "14 November 2022"
+            },
+            "answer": "A",
+            "id": 110,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: Why were the early elections called?",
+            "choices": {
+                "A": "Constitutional amendments",
+                "B": "Term limits reset",
+                "C": "Approval of the referendum",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "id": 31,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: When was the new parliament's first sitting scheduled?",
+            "choices": {
+                "A": "23 July 2023",
+                "B": "26 July 2023",
+                "C": "21 August 2023",
+                "D": "7 August 2023"
+            },
+            "answer": "C",
+            "id": 164,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: Which party campaigned heavily against migration in the 2023 Swiss election?",
+            "choices": {
+                "A": "Swiss People's Party (SVP)",
+                "B": "Green and Green Liberal Parties",
+                "C": "Ticino League and Geneva Citizens Movement",
+                "D": "The Centre"
+            },
+            "answer": "A",
+            "id": 184,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: Which parties formed the incumbent Bettel II Government?",
+            "choices": {
+                "A": "Democratic Party (DP), Luxembourg Socialist Workers' Party (LSAP), and The Greens",
+                "B": "Christian Social People's Party (CSV), Democratic Party (DP), and The Greens",
+                "C": "Luxembourg Socialist Workers' Party (LSAP), The Greens, and Christian Social People's Party (CSV)",
+                "D": "The Greens, Democratic Party (DP), and Christian Social People's Party (CSV)"
+            },
+            "answer": "A",
+            "id": 228,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: Who was Ali Bongo's major competitor in the election?",
+            "choices": {
+                "A": "Albert Ondo Ossa",
+                "B": "Michel Stephane Bonda",
+                "C": "Omar Bongo",
+                "D": "Ali Bongo"
+            },
+            "answer": "A",
+            "id": 192,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: How many members are there in the Chamber of Deputies?",
+            "choices": {
+                "A": "45",
+                "B": "80",
+                "C": "18",
+                "D": "30"
+            },
+            "answer": "B",
+            "id": 2,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: What was the reason for the dissolution of the National Assembly?",
+            "choices": {
+                "A": "The invocation of muerte cruzada",
+                "B": "The assassination of a presidential candidate",
+                "C": "The announcement of Guillermo Lasso",
+                "D": "The run-off election"
+            },
+            "answer": "A",
+            "id": 208,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: Who is Santiago Pe\u00f1a a prot\u00e9g\u00e9 of?",
+            "choices": {
+                "A": "Efra\u00edn Alegre",
+                "B": "Paraguayo Cubas",
+                "C": "Horacio Cartes",
+                "D": "Mario Abdo Ben\u00edtez"
+            },
+            "answer": "C",
+            "id": 7,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: Why were the early general elections called?",
+            "choices": {
+                "A": "Immigration policy disagreements",
+                "B": "Economic crisis",
+                "C": "Health crisis",
+                "D": "Corruption scandal"
+            },
+            "answer": "A",
+            "id": 171,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: When are the presidential elections in Egypt scheduled to take place?",
+            "choices": {
+                "A": "December 2023",
+                "B": "October 2023",
+                "C": "January 2023",
+                "D": "November 2023"
+            },
+            "answer": "A",
+            "id": 80,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: How are the members of the Chamber of Deputies elected?",
+            "choices": {
+                "A": "Plurality voting",
+                "B": "Closed list proportional representation",
+                "C": "Single national constituency",
+                "D": "Open list proportional representation"
+            },
+            "answer": "B",
+            "id": 3,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Who endorsed Andrej Babi\u0161 in the runoff?",
+            "choices": {
+                "A": "Communist Party of Bohemia and Moravia",
+                "B": "Petr Fiala",
+                "C": "Petr Pavel",
+                "D": "Milo\u0161 Zeman"
+            },
+            "answer": "A",
+            "id": 65,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: How many rounds of voting were held in the presidential election?",
+            "choices": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "B",
+            "id": 21,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Which candidate expressed opposition to Czech involvement in the War in Ukraine?",
+            "choices": {
+                "A": "Milo\u0161 Zeman",
+                "B": "Petr Pavel",
+                "C": "Andrej Babi\u0161",
+                "D": "Petr Fiala"
+            },
+            "answer": "C",
+            "id": 64,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: Who won the runoff in the closest runoff in Liberia's history?",
+            "choices": {
+                "A": "Joseph Boakai",
+                "B": "George Weah",
+                "C": "European Union observers",
+                "D": "ECOWAS"
+            },
+            "answer": "A",
+            "id": 115,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Who received the highest percentage of votes in the first round?",
+            "choices": {
+                "A": "Recep Tayyip Erdo\u011fan",
+                "B": "Kemal K\u0131l\u0131\u00e7daro\u011flu",
+                "C": "Muharrem \u0130nce",
+                "D": "Sinan O\u011fan"
+            },
+            "answer": "A",
+            "id": 253,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: How many seats were up for election in the Chamber of Deputies?",
+            "choices": {
+                "A": "40",
+                "B": "50",
+                "C": "60",
+                "D": "70"
+            },
+            "answer": "C",
+            "id": 227,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: What was the voter turnout in the 2023 Thailand election?",
+            "choices": {
+                "A": "50.11%",
+                "B": "62.34%",
+                "C": "75.22%",
+                "D": "88.99%"
+            },
+            "answer": "C",
+            "id": 72,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: When were the general elections held in Gabon?",
+            "choices": {
+                "A": "26 August 2023",
+                "B": "30 August 2023",
+                "C": "14 years ago",
+                "D": "1960"
+            },
+            "answer": "A",
+            "id": 189,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: How many members were elected to the New Zealand House of Representatives?",
+            "choices": {
+                "A": "54",
+                "B": "71",
+                "C": "122",
+                "D": "123"
+            },
+            "answer": "C",
+            "id": 198,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: How many candidates are running for the National Council in the 2023 election?",
+            "choices": {
+                "A": "5909",
+                "B": "2408",
+                "C": "3501",
+                "D": "618"
+            },
+            "answer": "A",
+            "id": 182,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Which party did Recep Tayyip Erdo\u011fan represent in the election?",
+            "choices": {
+                "A": "Justice and Development Party (AK Party)",
+                "B": "Republican People's Party (CHP)",
+                "C": "Nationalist Movement Party (MHP)",
+                "D": "Party of Greens and the Left Future (YSGP)"
+            },
+            "answer": "A",
+            "id": 250,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: What policies did Santiago Pe\u00f1a pledge to pursue?",
+            "choices": {
+                "A": "Job creation, low taxation, and attracting foreign investment",
+                "B": "Social welfare programs, high taxation, and reducing foreign investment",
+                "C": "Nationalization of industries, high taxation, and reducing foreign investment",
+                "D": "Job creation, high taxation, and reducing foreign investment"
+            },
+            "answer": "A",
+            "id": 8,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: Which party won the majority of seats in Parliament in the 2023 election?",
+            "choices": {
+                "A": "All People's Congress",
+                "B": "European Union Election Observation Mission",
+                "C": "Sierra Leone People's Party",
+                "D": "Julius Maada Bio"
+            },
+            "answer": "C",
+            "id": 121,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: How is seat allocation calculated?",
+            "choices": {
+                "A": "First-past-the-post system",
+                "B": "Hagenbach-Bischoff quota",
+                "C": "Random selection",
+                "D": "Appointment by the Prime Minister"
+            },
+            "answer": "B",
+            "id": 230,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: Who was formally nominated by the King on 7 August?",
+            "choices": {
+                "A": "Hun Sen",
+                "B": "Hun Manet",
+                "C": "Sam Rainsy",
+                "D": "Kem Sokha"
+            },
+            "answer": "B",
+            "id": 165,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: Who chooses the prime minister in Thailand?",
+            "choices": {
+                "A": "House of Representatives",
+                "B": "Senate",
+                "C": "National Assembly",
+                "D": "Election Commission"
+            },
+            "answer": "C",
+            "id": 74,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Who won the presidential election in Turkey in 2023?",
+            "choices": {
+                "A": "Recep Tayyip Erdo\u011fan",
+                "B": "Kemal K\u0131l\u0131\u00e7daro\u011flu",
+                "C": "Muharrem \u0130nce",
+                "D": "Sinan O\u011fan"
+            },
+            "answer": "A",
+            "id": 247,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023:  Who struck a deal with Junts and most of the parliamentary regionalist and peripheral nationalist parties to win re-election?",
+            "choices": {
+                "A": "Pedro S\u00e1nchez",
+                "B": "Pablo Casado",
+                "C": "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+                "D": "Carles Puigdemont"
+            },
+            "answer": "A",
+            "id": 19,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: When did the elected officials start their terms?",
+            "choices": {
+                "A": "17 May 2023",
+                "B": "20 August 2023",
+                "C": "15 October 2023",
+                "D": "25 November 2023"
+            },
+            "answer": "D",
+            "id": 210,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: How many candidates participated in the presidential election?",
+            "choices": {
+                "A": "2",
+                "B": "4",
+                "C": "6",
+                "D": "8"
+            },
+            "answer": "C",
+            "id": 25,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Why were the elections moved forward by a month?",
+            "choices": {
+                "A": "To avoid coinciding with university exams",
+                "B": "To avoid coinciding with the Hajj pilgrimage",
+                "C": "To avoid coinciding with the start of summer holidays",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "id": 249,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: How many seats did the Labour Party (ABLP) win in the 2023 general election?",
+            "choices": {
+                "A": "15",
+                "B": "9",
+                "C": "6",
+                "D": "3"
+            },
+            "answer": "B",
+            "id": 41,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: Why did right-wing voters consolidate around Wilders?",
+            "choices": {
+                "A": "They disliked Frans Timmermans",
+                "B": "They disliked Mark Rutte",
+                "C": "They disliked Dilan Ye\u015filg\u00f6z",
+                "D": "They disliked Geert Wilders"
+            },
+            "answer": "A",
+            "id": 178,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: When was Tharman Shanmugaratnam inaugurated as the ninth president of Singapore?",
+            "choices": {
+                "A": "1 September",
+                "B": "14 September",
+                "C": "12 September",
+                "D": "2 September"
+            },
+            "answer": "B",
+            "id": 158,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: Who was ineligible to appear on the ballot due to a corruption conviction?",
+            "choices": {
+                "A": "Ibrahim Mohamed Solih",
+                "B": "Mohamed Nasheed",
+                "C": "Mohamed Muizzu",
+                "D": "Abdulla Yameen"
+            },
+            "answer": "D",
+            "id": 24,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: What percentage of the population was living below the poverty line before the economic crisis?",
+            "choices": {
+                "A": "30%",
+                "B": "40%",
+                "C": "50%",
+                "D": "60%"
+            },
+            "answer": "A",
+            "id": 87,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: How many seats did the CPP win in the elections?",
+            "choices": {
+                "A": "5",
+                "B": "120",
+                "C": "125",
+                "D": "104"
+            },
+            "answer": "B",
+            "id": 162,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How are seats assigned in electoral districts with multiple seats?",
+            "choices": {
+                "A": "First-past-the-post voting",
+                "B": "Proportional representation",
+                "C": "Open list method",
+                "D": "Largest remainder method"
+            },
+            "answer": "D",
+            "id": 55,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023:  What percentage of the population was fully vaccinated as of January 2022?",
+            "choices": {
+                "A": "80%",
+                "B": "83.20%",
+                "C": "16.80%",
+                "D": "90%"
+            },
+            "answer": "A",
+            "id": 169,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: When is Javier Milei scheduled to be sworn in as the next president of Argentina?",
+            "choices": {
+                "A": "22 October 2023",
+                "B": "19 November 2023",
+                "C": "10 December 2023",
+                "D": "22 December 2023"
+            },
+            "answer": "C",
+            "id": 244,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Which party decided not to run in the 2023 general election and focused on the 2024 European Parliament election instead?",
+            "choices": {
+                "A": "People's Party (PP)",
+                "B": "Spanish Socialist Workers' Party (PSOE)",
+                "C": "Vox",
+                "D": "Citizens party"
+            },
+            "answer": "D",
+            "id": 13,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: Who is the incumbent President of Egypt?",
+            "choices": {
+                "A": "Abdel Fattah el-Sisi",
+                "B": "Sami Anan",
+                "C": "Ahmed Shafik",
+                "D": "Khaled Ali"
+            },
+            "answer": "A",
+            "id": 81,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: Which party held all seats in parliament prior to the elections?",
+            "choices": {
+                "A": "FUNCINPEC",
+                "B": "Cambodia National Rescue Party",
+                "C": "Candlelight Party",
+                "D": "Cambodian People's Party (CPP)"
+            },
+            "answer": "D",
+            "id": 161,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How is the president elected?",
+            "choices": {
+                "A": "Plurality voting in one round",
+                "B": "Proportional representation",
+                "C": "First-past-the-post voting",
+                "D": "Largest remainder method"
+            },
+            "answer": "A",
+            "id": 52,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023:  What was the reason for the postponement of the election?",
+            "choices": {
+                "A": "Pre-election unrest",
+                "B": "Lack of funding",
+                "C": "Natural disaster",
+                "D": "International pressure"
+            },
+            "answer": "A",
+            "id": 139,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: How many more terms can President Shavkat Mirziyoyev serve?",
+            "choices": {
+                "A": "One more term",
+                "B": "Two more terms",
+                "C": "Three more terms",
+                "D": "No more terms"
+            },
+            "answer": "B",
+            "id": 34,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: When did Petr Pavel assume office as the President of the Czech Republic?",
+            "choices": {
+                "A": "13 January 2023",
+                "B": "14 January 2023",
+                "C": "27 January 2023",
+                "D": "9 March 2023"
+            },
+            "answer": "D",
+            "id": 66,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Which candidate ran as an independent on a pro-Western, pro-European platform?",
+            "choices": {
+                "A": "Milo\u0161 Zeman",
+                "B": "Petr Pavel",
+                "C": "Andrej Babi\u0161",
+                "D": "Petr Fiala"
+            },
+            "answer": "B",
+            "id": 62,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: What did Moody's label Egypt as in terms of defaulting on foreign debt in 2023?",
+            "choices": {
+                "A": "One of the top five economies most at risk",
+                "B": "One of the least at risk economies",
+                "C": "One of the middle-risk economies",
+                "D": "One of the safest economies"
+            },
+            "answer": "A",
+            "id": 88,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Who became the first elected president not being a member of the \u0110ukanovi\u0107's DPS since the introduction of the multi-party system in 1990?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "A",
+            "id": 144,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: What caused the delay in certifying the results of the first round?",
+            "choices": {
+                "A": "Constitutional Court injunction",
+                "B": "False signatures",
+                "C": "Electoral fraud",
+                "D": "Opening of electoral boxes"
+            },
+            "answer": "A",
+            "id": 94,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Who consistently expressed his intention to complete the legislature as scheduled in 2023?",
+            "choices": {
+                "A": "Pedro S\u00e1nchez",
+                "B": "Pablo Casado",
+                "C": "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+                "D": "Carles Puigdemont"
+            },
+            "answer": "A",
+            "id": 14,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: Which organization reported about the delays in voting in Manicaland?",
+            "choices": {
+                "A": "Zimbabwe Electoral Commission",
+                "B": "Zimbabwe Broadcasting Corporation",
+                "C": "Citizens Coalition for Change",
+                "D": "ZANU\u2013PF"
+            },
+            "answer": "B",
+            "id": 225,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: Which party proposed to raise the minimum wage and support small businesses during the election campaign?",
+            "choices": {
+                "A": "United Progressive Party (UPP)",
+                "B": "Democratic National Alliance",
+                "C": "Barbuda People's Movement (BPM)",
+                "D": "Labour Party (ABLP)"
+            },
+            "answer": "A",
+            "id": 43,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: Which party won the majority of seats in the Kono District in the 2023 election?",
+            "choices": {
+                "A": "All People's Congress",
+                "B": "European Union Election Observation Mission",
+                "C": "Sierra Leone People's Party",
+                "D": "Julius Maada Bio"
+            },
+            "answer": "C",
+            "id": 123,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: When did the Supreme Court of Cambodia ban the largest opposition party?",
+            "choices": {
+                "A": "1993",
+                "B": "2018",
+                "C": "2023",
+                "D": "2028"
+            },
+            "answer": "B",
+            "id": 168,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: Who was the incumbent president seeking re-election?",
+            "choices": {
+                "A": "Ibrahim Mohamed Solih",
+                "B": "Mohamed Nasheed",
+                "C": "Mohamed Muizzu",
+                "D": "Abdulla Yameen"
+            },
+            "answer": "A",
+            "id": 22,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023:  What did the European Union Election Observation Mission suggest the electoral commission should do to ensure transparency?",
+            "choices": {
+                "A": "Demand a rerun",
+                "B": "Publish disaggregated results data per polling station",
+                "C": "Contest the election results",
+                "D": "Re-elect Julius Maada Bio"
+            },
+            "answer": "B",
+            "id": 129,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Who endorsed Nikos Christodoulides in the second round?",
+            "choices": {
+                "A": "Nicos Anastasiades",
+                "B": "Andreas Mavroyiannis",
+                "C": "Averof Neofytou",
+                "D": "Democratic Rally (DISY)"
+            },
+            "answer": "A",
+            "id": 262,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023: Who was the only nominal opposition candidate in the 2018 elections?",
+            "choices": {
+                "A": "Moussa Mostafa Moussa",
+                "B": "Sami Anan",
+                "C": "Ahmed Shafik",
+                "D": "Khaled Ali"
+            },
+            "answer": "A",
+            "id": 84,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: How many seats did the Labour Party win in the election?",
+            "choices": {
+                "A": "34",
+                "B": "54",
+                "C": "65",
+                "D": "71"
+            },
+            "answer": "A",
+            "id": 201,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Who was the incumbent president of Argentina during the election?",
+            "choices": {
+                "A": "Sergio Massa",
+                "B": "Javier Milei",
+                "C": "Alberto Fern\u00e1ndez",
+                "D": "Cristina Fern\u00e1ndez de Kirchner"
+            },
+            "answer": "C",
+            "id": 238,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: How many rounds are held in the presidential elections in Madagascar?",
+            "choices": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "B",
+            "id": 132,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Who won the runoff election?",
+            "choices": {
+                "A": "Sergio Massa",
+                "B": "Javier Milei",
+                "C": "Alberto Fern\u00e1ndez",
+                "D": "Cristina Fern\u00e1ndez de Kirchner"
+            },
+            "answer": "B",
+            "id": 242,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: What percentage of the votes did Tharman Shanmugaratnam receive in the 2023 Singapore presidential elections?",
+            "choices": {
+                "A": "70.41%",
+                "B": "15.72%",
+                "C": "13.87%",
+                "D": "100%"
+            },
+            "answer": "A",
+            "id": 153,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of cambodia in 2023: When were the general elections held in Cambodia?",
+            "choices": {
+                "A": "23 July 2023",
+                "B": "26 July 2023",
+                "C": "21 August 2023",
+                "D": "7 August 2023"
+            },
+            "answer": "A",
+            "id": 160,
+            "country": "cambodia",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: How long were the voting stations open during the general election?",
+            "choices": {
+                "A": "6:00 to 12:00",
+                "B": "6:00 to 18:00",
+                "C": "12:00 to 18:00",
+                "D": "18:00 to 24:00"
+            },
+            "answer": "B",
+            "id": 47,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Which movement won a plurality of seats in the 2023 Montenegrin parliamentary election?",
+            "choices": {
+                "A": "Democratic Party of Socialists (DPS)",
+                "B": "Europe Now!",
+                "C": "Democratic Front (DF)",
+                "D": "Together! coalition"
+            },
+            "answer": "B",
+            "id": 147,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: Which countries condemned the prohibition of political rallies in the open?",
+            "choices": {
+                "A": "European Union, United Kingdom, United States, Germany, France, Switzerland, Norway, and Japan",
+                "B": "China, Russia, India, Brazil, South Africa, Australia, Canada, and Mexico",
+                "C": "Saudi Arabia, Iran, Iraq, Syria, Egypt, Turkey, Jordan, and Lebanon",
+                "D": "Nigeria, Kenya, South Sudan, Ethiopia, Tanzania, Uganda, Rwanda, and Burundi"
+            },
+            "answer": "A",
+            "id": 136,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Which party saw a decrease in its popular vote and seats?",
+            "choices": {
+                "A": "People's Party (PP)",
+                "B": "Spanish Socialist Workers' Party (PSOE)",
+                "C": "Vox",
+                "D": "Sumar"
+            },
+            "answer": "C",
+            "id": 18,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: How many states and the Federal Capital Territory must a candidate receive over 25% of the vote in to be elected in the first round?",
+            "choices": {
+                "A": "20",
+                "B": "24",
+                "C": "28",
+                "D": "32"
+            },
+            "answer": "B",
+            "id": 104,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Who formed the second government of Spain after the November 2019 general election?",
+            "choices": {
+                "A": "People's Party (PP)",
+                "B": "Spanish Socialist Workers' Party (PSOE)",
+                "C": "Unidas Podemos",
+                "D": "Citizens party"
+            },
+            "answer": "B",
+            "id": 10,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: Who won the presidential election in the Maldives in 2023?",
+            "choices": {
+                "A": "Ibrahim Mohamed Solih",
+                "B": "Mohamed Nasheed",
+                "C": "Mohamed Muizzu",
+                "D": "Abdulla Yameen"
+            },
+            "answer": "C",
+            "id": 20,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: How were the election results described by international media?",
+            "choices": {
+                "A": "A political upset",
+                "B": "A landslide victory for PVV",
+                "C": "Both a and b",
+                "D": "None of the above"
+            },
+            "answer": "C",
+            "id": 176,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: What action did incumbent Rajoelina take in April 2023?",
+            "choices": {
+                "A": "Prohibited all political rallies in the open",
+                "B": "Allowed all political rallies in the open",
+                "C": "Encouraged all political rallies in the open",
+                "D": "Ignored all political rallies in the open"
+            },
+            "answer": "A",
+            "id": 137,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How are members of the provincial assemblies elected?",
+            "choices": {
+                "A": "First-past-the-post voting",
+                "B": "Proportional representation",
+                "C": "Open list method",
+                "D": "Largest remainder method"
+            },
+            "answer": "B",
+            "id": 57,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: How long is the term of the elected president in Turkey?",
+            "choices": {
+                "A": "4 years",
+                "B": "5 years",
+                "C": "6 years",
+                "D": "7 years"
+            },
+            "answer": "B",
+            "id": 248,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: What was the voter turnout in the second round of the election?",
+            "choices": {
+                "A": "Below 50%",
+                "B": "Around 60%",
+                "C": "Around 70%",
+                "D": "Above 80%"
+            },
+            "answer": "C",
+            "id": 68,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023:  What is the expected impact of the election outcome on Czech ties with the European Union and the United States?",
+            "choices": {
+                "A": "Strengthening ties with Russia",
+                "B": "No change in ties with any country",
+                "C": "Strengthening ties with China",
+                "D": "Strengthening ties with the European Union and the United States"
+            },
+            "answer": "D",
+            "id": 69,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: Which political party did Ali Bongo represent in the election?",
+            "choices": {
+                "A": "Gabonese Democratic Party",
+                "B": "Gabonese Independence Party",
+                "C": "French Democratic Party",
+                "D": "Gabonese Republican Party"
+            },
+            "answer": "A",
+            "id": 188,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Which party led opinion polls and finished first in the regional and local elections of May 2023?",
+            "choices": {
+                "A": "People's Party (PP)",
+                "B": "Spanish Socialist Workers' Party (PSOE)",
+                "C": "Vox",
+                "D": "Citizens party"
+            },
+            "answer": "A",
+            "id": 12,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023:  What other elections were held on the same day?",
+            "choices": {
+                "A": "Local and departmental elections",
+                "B": "Presidential and parliamentary elections",
+                "C": "Regional and municipal elections",
+                "D": "Senate and gubernatorial elections"
+            },
+            "answer": "A",
+            "id": 196,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: Who won the run-off election and became the President-elect of Ecuador?",
+            "choices": {
+                "A": "Luisa Gonz\u00e1lez",
+                "B": "Daniel Noboa",
+                "C": "Guillermo Lasso",
+                "D": "Fernando Villavicencio"
+            },
+            "answer": "B",
+            "id": 215,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: How many seats were filled in the 2023 Port Waikato by-election?",
+            "choices": {
+                "A": "0",
+                "B": "1",
+                "C": "2",
+                "D": "3"
+            },
+            "answer": "B",
+            "id": 199,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: Which party won the most seats in the new parliament?",
+            "choices": {
+                "A": "Labour Party",
+                "B": "National Party",
+                "C": "Green Party",
+                "D": "ACT Party"
+            },
+            "answer": "B",
+            "id": 202,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: How many seats did the PVV win in the parliament?",
+            "choices": {
+                "A": "37",
+                "B": "25",
+                "C": "24",
+                "D": "20"
+            },
+            "answer": "A",
+            "id": 174,
+            "country": "netherlands",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: Who was eligible for a second term as president?",
+            "choices": {
+                "A": "Joseph Boakai",
+                "B": "George Weah",
+                "C": "European Union observers",
+                "D": "ECOWAS"
+            },
+            "answer": "B",
+            "id": 112,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: Who won the 2023 New Zealand general election?",
+            "choices": {
+                "A": "Labour Party",
+                "B": "National Party",
+                "C": "Green Party",
+                "D": "ACT Party"
+            },
+            "answer": "B",
+            "id": 197,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: What happens if no candidate passes the threshold in the first round?",
+            "choices": {
+                "A": "The election is declared void",
+                "B": "A second round is held between the top two candidates",
+                "C": "The incumbent President is re-elected automatically",
+                "D": "A third round is held with new candidates"
+            },
+            "answer": "B",
+            "id": 105,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of switzerland in 2023: Which party performed poorly in the 2023 Swiss election?",
+            "choices": {
+                "A": "Swiss People's Party (SVP)",
+                "B": "Green and Green Liberal Parties",
+                "C": "Ticino League and Geneva Citizens Movement",
+                "D": "The Centre"
+            },
+            "answer": "B",
+            "id": 186,
+            "country": "switzerland",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Who won the second round runoff in the presidential election?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "A",
+            "id": 143,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: How many candidates ran for the non-partisan position in the 2023 Singapore presidential elections?",
+            "choices": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "C",
+            "id": 151,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Who was the incumbent president eligible for re-election in the 2023 Montenegrin presidential election?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "C",
+            "id": 140,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: Which organization had a team of 86 election observers in Guatemala?",
+            "choices": {
+                "A": "Supreme Electoral Tribunal",
+                "B": "Organization of American States (OAS)",
+                "C": "Public Prosecution Service (MP)",
+                "D": "National Unity of Hope (UNE)"
+            },
+            "answer": "B",
+            "id": 95,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: When were the presidential elections in Madagascar scheduled to be held in 2023?",
+            "choices": {
+                "A": "9 November",
+                "B": "12 October",
+                "C": "20 December",
+                "D": "16 November"
+            },
+            "answer": "A",
+            "id": 130,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: Which party demanded a rerun of the election in 2023?",
+            "choices": {
+                "A": "All People's Congress",
+                "B": "European Union Election Observation Mission",
+                "C": "Sierra Leone People's Party",
+                "D": "Julius Maada Bio"
+            },
+            "answer": "A",
+            "id": 125,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023: Who was constitutionally prohibited from running for a second term in the 2023 Guatemalan election?",
+            "choices": {
+                "A": "Alejandro Giammattei",
+                "B": "Bernardo Ar\u00e9valo",
+                "C": "Sandra Torres",
+                "D": "Juan Jos\u00e9 Ar\u00e9valo"
+            },
+            "answer": "A",
+            "id": 90,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023:  How old will Daniel Noboa be when he becomes the President of Ecuador?",
+            "choices": {
+                "A": "17 years old",
+                "B": "20 years old",
+                "C": "35 years old",
+                "D": "52 years old"
+            },
+            "answer": "C",
+            "id": 216,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023:  Who was elected as the prime minister on 22 August?",
+            "choices": {
+                "A": "Pita Limjaroenrat",
+                "B": "Prayut Chan-o-cha",
+                "C": "Srettha Thavisin",
+                "D": "Pheu Thai"
+            },
+            "answer": "C",
+            "id": 79,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: Which candidate outperformed the polls and faced \u0110ukanovi\u0107 in the second round of the presidential election?",
+            "choices": {
+                "A": "Jakov Milatovi\u0107",
+                "B": "Andrija Mandi\u0107",
+                "C": "Milo \u0110ukanovi\u0107",
+                "D": "Zdravko Krivokapi\u0107"
+            },
+            "answer": "A",
+            "id": 141,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Who contested the run-off vote against Erdo\u011fan?",
+            "choices": {
+                "A": "Kemal K\u0131l\u0131\u00e7daro\u011flu",
+                "B": "Muharrem \u0130nce",
+                "C": "Sinan O\u011fan",
+                "D": "None of the above"
+            },
+            "answer": "A",
+            "id": 254,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: How many voter rolls were there in the Zimbabwe election of 2023?",
+            "choices": {
+                "A": "5.8 million",
+                "B": "6.5 million",
+                "C": "7 million",
+                "D": "5 million"
+            },
+            "answer": "B",
+            "id": 218,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of czech republic in 2023: Who finished second in the first round of the election?",
+            "choices": {
+                "A": "Milo\u0161 Zeman",
+                "B": "Petr Pavel",
+                "C": "Andrej Babi\u0161",
+                "D": "Petr Fiala"
+            },
+            "answer": "C",
+            "id": 63,
+            "country": "czech republic",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023:  Which international organizations announced that they would observe the election?",
+            "choices": {
+                "A": "Commonwealth Observer Group and CARICOM",
+                "B": "Organization of American States and CARICOM",
+                "C": "Commonwealth Observer Group and Organization of American States",
+                "D": "Caribbean Development Research Services and CARICOM"
+            },
+            "answer": "C",
+            "id": 49,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: Who was the leader of the Labour Party during the election?",
+            "choices": {
+                "A": "Chris Hipkins",
+                "B": "Christopher Luxon",
+                "C": "Jacinda Ardern",
+                "D": "Nanaia Mahuta"
+            },
+            "answer": "A",
+            "id": 200,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: Who refused to concede until the actual results were announced?",
+            "choices": {
+                "A": "Ng Kok Song",
+                "B": "Tan Kin Lian",
+                "C": "Halimah Yacob",
+                "D": "Tharman Shanmugaratnam"
+            },
+            "answer": "B",
+            "id": 156,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: What percentage of eligible voters is required to participate in the presidential elections for them to be valid?",
+            "choices": {
+                "A": "Less than 33%",
+                "B": "Exactly 33%",
+                "C": "More than 33%",
+                "D": "No minimum requirement"
+            },
+            "answer": "C",
+            "id": 35,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023:  Who was sworn in as prime minister on 27 November 2023?",
+            "choices": {
+                "A": "Chris Hipkins",
+                "B": "Christopher Luxon",
+                "C": "Jacinda Ardern",
+                "D": "Nanaia Mahuta"
+            },
+            "answer": "B",
+            "id": 206,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of new zealand in 2023: Which party gained enough votes to return to parliament after being ousted in the 2020 election?",
+            "choices": {
+                "A": "Labour Party",
+                "B": "National Party",
+                "C": "Green Party",
+                "D": "New Zealand First"
+            },
+            "answer": "D",
+            "id": 203,
+            "country": "new zealand",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of egypt in 2023:  What did the IMF request regarding the Egyptian pound?",
+            "choices": {
+                "A": "Transition to a fully floating exchange rate",
+                "B": "Peg it to the US dollar",
+                "C": "Devalue it further",
+                "D": "Introduce a fixed exchange rate"
+            },
+            "answer": "A",
+            "id": 89,
+            "country": "egypt",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: Who were the two main candidates for the presidential office in the Zimbabwe election of 2023?",
+            "choices": {
+                "A": "Emmerson Dambudzo Mnangagwa and Nelson Chamisa",
+                "B": "Robert Mugabe and Morgan Tsvangirai",
+                "C": "Emmerson Dambudzo Mnangagwa and Morgan Tsvangirai",
+                "D": "Nelson Chamisa and Robert Mugabe"
+            },
+            "answer": "A",
+            "id": 217,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: What was the voter turnout in the presidential election?",
+            "choices": {
+                "A": "58.95%",
+                "B": "46.36%",
+                "C": "20%",
+                "D": "100%"
+            },
+            "answer": "B",
+            "id": 134,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Who finished third in the first round of the elections?",
+            "choices": {
+                "A": "Nicos Anastasiades",
+                "B": "Nikos Christodoulides",
+                "C": "Andreas Mavroyiannis",
+                "D": "Averof Neofytou"
+            },
+            "answer": "D",
+            "id": 261,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of spain in 2023: Which party saw the biggest increase in support and secured 137 seats in the Congress?",
+            "choices": {
+                "A": "People's Party (PP)",
+                "B": "Spanish Socialist Workers' Party (PSOE)",
+                "C": "Vox",
+                "D": "Sumar"
+            },
+            "answer": "A",
+            "id": 16,
+            "country": "spain",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023:  Which party declined to endorse any candidate in the second round?",
+            "choices": {
+                "A": "Democratic Rally (DISY)",
+                "B": "Democratic Party (DIKO)",
+                "C": "Movement for Social Democracy (EDEK)",
+                "D": "Progressive Party of Working People (AKEL)"
+            },
+            "answer": "A",
+            "id": 266,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of turkey in 2023: Who endorsed Erdo\u011fan in the run-off vote?",
+            "choices": {
+                "A": "Sinan O\u011fan",
+                "B": "\u00dcmit \u00d6zda\u011f",
+                "C": "Ne\u015fet Do\u011fan",
+                "D": "None of the above"
+            },
+            "answer": "A",
+            "id": 255,
+            "country": "turkey",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: Who came in first place in the run-off election?",
+            "choices": {
+                "A": "Luisa Gonz\u00e1lez",
+                "B": "Daniel Noboa",
+                "C": "Guillermo Lasso",
+                "D": "Fernando Villavicencio"
+            },
+            "answer": "B",
+            "id": 212,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: How many seats did the Sierra Leone People's Party win in the Kono District in the 2023 election?",
+            "choices": {
+                "A": "54",
+                "B": "81",
+                "C": "10",
+                "D": "7"
+            },
+            "answer": "D",
+            "id": 124,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: What percentage of the vote did Ali Bongo receive?",
+            "choices": {
+                "A": "64.27%",
+                "B": "30.77%",
+                "C": "56.65%",
+                "D": "41 years"
+            },
+            "answer": "A",
+            "id": 191,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: Who advanced to the runoff held on 14 November 2023?",
+            "choices": {
+                "A": "Joseph Boakai",
+                "B": "George Weah",
+                "C": "European Union observers",
+                "D": "ECOWAS"
+            },
+            "answer": "B",
+            "id": 114,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of maldives in 2023: Why was a second round of voting scheduled?",
+            "choices": {
+                "A": "No candidate received over 50% of the vote in the first round",
+                "B": "There was a tie between the top two candidates",
+                "C": "The election was declared invalid",
+                "D": "The incumbent president withdrew from the race"
+            },
+            "answer": "A",
+            "id": 27,
+            "country": "maldives",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: Who was the incumbent president of Singapore in 2023?",
+            "choices": {
+                "A": "Halimah Yacob",
+                "B": "Tharman Shanmugaratnam",
+                "C": "Ng Kok Song",
+                "D": "Tan Kin Lian"
+            },
+            "answer": "A",
+            "id": 150,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of guatemala in 2023:  When is it legally valid to open electoral boxes in Guatemala?",
+            "choices": {
+                "A": "Anytime after the election",
+                "B": "Only with those contested within the time established by law",
+                "C": "Only after the results are certified",
+                "D": "Only with the approval of the attorney general's office"
+            },
+            "answer": "B",
+            "id": 99,
+            "country": "guatemala",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: Who was eligible for a second term as president but chose not to stand for re-election?",
+            "choices": {
+                "A": "Guillermo Lasso",
+                "B": "Luisa Gonz\u00e1lez",
+                "C": "Daniel Noboa",
+                "D": "Fernando Villavicencio"
+            },
+            "answer": "A",
+            "id": 209,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: What was the outcome of the proposal to extend voting rights to foreigners?",
+            "choices": {
+                "A": "Accepted in a 2015 referendum",
+                "B": "Rejected in a 2015 referendum",
+                "C": "Pending decision in a 2015 referendum",
+                "D": "Postponed indefinitely"
+            },
+            "answer": "B",
+            "id": 232,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: Who announced the preliminary results of the presidential elections?",
+            "choices": {
+                "A": "President Shavkat Mirziyoyev",
+                "B": "Zainiddin Nizamkhojaev",
+                "C": "The Central Election Commission of Uzbekistan",
+                "D": "The parliament of Uzbekistan"
+            },
+            "answer": "B",
+            "id": 38,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of montenegro in 2023: When was the last time a runoff vote was held in Montenegro before the 2023 presidential election?",
+            "choices": {
+                "A": "1990",
+                "B": "1997",
+                "C": "2006",
+                "D": "2018"
+            },
+            "answer": "B",
+            "id": 145,
+            "country": "montenegro",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: How are the members of the Senate elected?",
+            "choices": {
+                "A": "Proportional representation",
+                "B": "First-past-the-post voting",
+                "C": "Ranked-choice voting",
+                "D": "Electoral college"
+            },
+            "answer": "B",
+            "id": 106,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of gabon in 2023: Who was declared the winner of the election?",
+            "choices": {
+                "A": "Albert Ondo Ossa",
+                "B": "Michel Stephane Bonda",
+                "C": "Omar Bongo",
+                "D": "Ali Bongo"
+            },
+            "answer": "D",
+            "id": 190,
+            "country": "gabon",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of uzbekistan in 2023: When were the early presidential elections held in Uzbekistan?",
+            "choices": {
+                "A": "9 July 2023",
+                "B": "30 April 2023",
+                "C": "15 March 2023",
+                "D": "1991"
+            },
+            "answer": "A",
+            "id": 30,
+            "country": "uzbekistan",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of argentina in 2023: Who was the vice president and former president of Argentina during the election?",
+            "choices": {
+                "A": "Sergio Massa",
+                "B": "Javier Milei",
+                "C": "Alberto Fern\u00e1ndez",
+                "D": "Cristina Fern\u00e1ndez de Kirchner"
+            },
+            "answer": "D",
+            "id": 239,
+            "country": "argentina",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: Who declined to debate with Browne during the election campaign?",
+            "choices": {
+                "A": "Gaston Browne",
+                "B": "Trevor Walker",
+                "C": "Asot Michael",
+                "D": "Lovell"
+            },
+            "answer": "D",
+            "id": 45,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: Which organizations condemned the prohibition of political rallies in the open?",
+            "choices": {
+                "A": "European Union, United Kingdom, United States, Germany, France, Switzerland, Norway, and Japan",
+                "B": "United Nations, World Bank, International Monetary Fund, World Health Organization, International Criminal Court, and Red Cross",
+                "C": "African Union, Arab League, Organization of American States, Commonwealth of Nations, Organization of Islamic Cooperation, and Pacific Islands Forum",
+                "D": "Shanghai Cooperation Organization, Association of Southeast Asian Nations, South Asian Association for Regional Cooperation, Gulf Cooperation Council, and Economic Community of West African States"
+            },
+            "answer": "A",
+            "id": 138,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of congo in 2023: How many elections will be held in the Democratic Republic of the Congo in 2023?",
+            "choices": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            "answer": "D",
+            "id": 50,
+            "country": "congo",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of antigua and barbuda in 2023: Who won the majority of seats in the House of Representatives in the 2023 general election?",
+            "choices": {
+                "A": "United Progressive Party (UPP)",
+                "B": "Democratic National Alliance",
+                "C": "Barbuda People's Movement (BPM)",
+                "D": "Labour Party (ABLP)"
+            },
+            "answer": "D",
+            "id": 40,
+            "country": "antigua and barbuda",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023: What percentage of the vote is required for a candidate to be elected in the first round?",
+            "choices": {
+                "A": "10%",
+                "B": "15%",
+                "C": "20%",
+                "D": "25%"
+            },
+            "answer": "D",
+            "id": 103,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: What happens if no candidate secures a majority in the first round of the presidential election?",
+            "choices": {
+                "A": "A runoff election is held between the two candidates with the highest number of votes",
+                "B": "The candidate with the most votes is declared elected",
+                "C": "The election is declared invalid and a new election is scheduled",
+                "D": "The incumbent president remains in office"
+            },
+            "answer": "A",
+            "id": 223,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of singapore in 2023: Who became the first non-Chinese candidate to be directly elected to the presidency in Singapore?",
+            "choices": {
+                "A": "Tharman Shanmugaratnam",
+                "B": "Ng Kok Song",
+                "C": "Tan Kin Lian",
+                "D": "Halimah Yacob"
+            },
+            "answer": "A",
+            "id": 154,
+            "country": "singapore",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of madagascar in 2023: What is the lowest voter turnout in the country's history?",
+            "choices": {
+                "A": "58.95%",
+                "B": "46.36%",
+                "C": "20%",
+                "D": "100%"
+            },
+            "answer": "B",
+            "id": 135,
+            "country": "madagascar",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of liberia in 2023: How did Weah concede the election?",
+            "choices": {
+                "A": "Peacefully",
+                "B": "Violently",
+                "C": "Through a court battle",
+                "D": "He did not concede"
+            },
+            "answer": "A",
+            "id": 117,
+            "country": "liberia",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: What was the purpose of the national referendum held on the same day as the elections?",
+            "choices": {
+                "A": "To elect the President of Ecuador",
+                "B": "To dissolve the National Assembly",
+                "C": "To decide on oil exploitation in Yasun\u00ed National Park",
+                "D": "To decide on metallic mining in the Choc\u00f3 Andino area"
+            },
+            "answer": "C",
+            "id": 211,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of zimbabwe in 2023: How long is the term for the elected senate seats in Zimbabwe?",
+            "choices": {
+                "A": "5 years",
+                "B": "4 years",
+                "C": "3 years",
+                "D": "2 years"
+            },
+            "answer": "A",
+            "id": 221,
+            "country": "zimbabwe",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of thailand in 2023: How many parties vied for seats in the 2023 Thailand election?",
+            "choices": {
+                "A": "30",
+                "B": "45",
+                "C": "60",
+                "D": "67"
+            },
+            "answer": "D",
+            "id": 77,
+            "country": "thailand",
+            "continent": "asia"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: Who won the 2018 presidential election against Efra\u00edn Alegre?",
+            "choices": {
+                "A": "Santiago Pe\u00f1a",
+                "B": "Mario Abdo Ben\u00edtez",
+                "C": "Paraguayo Cubas",
+                "D": "Horacio Cartes"
+            },
+            "answer": "B",
+            "id": 5,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of sierra leone in 2023: Who was re-elected as president of Sierra Leone in 2023?",
+            "choices": {
+                "A": "Julius Maada Bio",
+                "B": "All People's Congress",
+                "C": "European Union Election Observation Mission",
+                "D": "Sierra Leone People's Party"
+            },
+            "answer": "A",
+            "id": 120,
+            "country": "sierra leone",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of paraguay in 2023: Which party did Santiago Pe\u00f1a represent in the election?",
+            "choices": {
+                "A": "Colorado Party",
+                "B": "Concertaci\u00f3n alliance",
+                "C": "National Crusade Party",
+                "D": "PLRA"
+            },
+            "answer": "A",
+            "id": 1,
+            "country": "paraguay",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of nigeria in 2023:  How many members are there in the House of Representatives?",
+            "choices": {
+                "A": "36",
+                "B": "72",
+                "C": "109",
+                "D": "360"
+            },
+            "answer": "D",
+            "id": 109,
+            "country": "nigeria",
+            "continent": "africa"
+        },
+        {
+            "question": "Answer the following question about the election of cyprus in 2023: Which candidate won the second round of the elections?",
+            "choices": {
+                "A": "Nicos Anastasiades",
+                "B": "Nikos Christodoulides",
+                "C": "Andreas Mavroyiannis",
+                "D": "Averof Neofytou"
+            },
+            "answer": "B",
+            "id": 263,
+            "country": "cyprus",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of ecuador in 2023: What was seen as a key factor to Daniel Noboa's rise in popularity among voters?",
+            "choices": {
+                "A": "The assassination of a presidential candidate",
+                "B": "The dissolution of the National Assembly",
+                "C": "His debate performance",
+                "D": "The announcement of Guillermo Lasso"
+            },
+            "answer": "C",
+            "id": 214,
+            "country": "ecuador",
+            "continent": "americas"
+        },
+        {
+            "question": "Answer the following question about the election of luxembourg in 2023: Where can Luxembourg citizens who live abroad vote?",
+            "choices": {
+                "A": "Any commune in Luxembourg",
+                "B": "The commune of Luxembourg City",
+                "C": "The commune in which they most recently lived in Luxembourg",
+                "D": "The commune in which they were born"
+            },
+            "answer": "C",
+            "id": 233,
+            "country": "luxembourg",
+            "continent": "europe"
+        },
+        {
+            "question": "Answer the following question about the election of netherlands in 2023: What was the main topic of the election?",
+            "choices": {
+                "A": "Economic crisis",
+                "B": "Health crisis",
+                "C": "Migration",
+                "D": "Corruption scandal"
+            },
+            "answer": "C",
+            "id": 177,
+            "country": "netherlands",
+            "continent": "europe"
+        }
+    ]
+}
