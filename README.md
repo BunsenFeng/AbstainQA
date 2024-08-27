@@ -205,11 +205,25 @@ We provide datasets in `data/` for `mmlu`, `knowledge_crosswords`, `hellaswag`, 
 ### Citation
 
 ```
-@article{feng2024don,
-  title={Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration},
-  author={Feng, Shangbin and Shi, Weijia and Wang, Yike and Ding, Wenxuan and Balachandran, Vidhisha and Tsvetkov, Yulia},
-  journal={arXiv preprint arXiv:2402.00367},
-  year={2024}
+@inproceedings{feng-etal-2024-dont,
+    title = "Don{'}t Hallucinate, Abstain: Identifying {LLM} Knowledge Gaps via Multi-{LLM} Collaboration",
+    author = "Feng, Shangbin  and
+      Shi, Weijia  and
+      Wang, Yike  and
+      Ding, Wenxuan  and
+      Balachandran, Vidhisha  and
+      Tsvetkov, Yulia",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.786",
+    pages = "14664--14690",
+    abstract = "Despite efforts to expand the knowledge of large language models (LLMs), knowledge gaps{---}missing or outdated information in LLMs{---}might always persist given the evolving nature of knowledge. In this work, we study approaches to identify LLM knowledge gaps and abstain from answering questions when knowledge gaps are present. We first adapt existing approaches to model calibration or adaptation through fine-tuning/prompting and analyze their ability to abstain from generating low-confidence outputs. Motivated by their failures in self-reflection and over-reliance on held-out sets, we propose two novel approaches that are based on model collaboration, i.e., LLMs probing other LLMs for knowledge gaps, either cooperatively or competitively. Extensive experiments with three LLMs on four QA tasks featuring diverse knowledge domains demonstrate that both cooperative and competitive approaches to unveiling LLM knowledge gaps achieve up to 19.3{\%} improvements on abstain accuracy against the strongest baseline. Further analysis reveals that our abstention methods pinpoint failure cases in retrieval augmentation and knowledge gaps in multi-hop reasoning.",
 }
 ```
 
