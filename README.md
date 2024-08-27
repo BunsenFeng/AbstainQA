@@ -227,4 +227,4 @@ We provide datasets in `data/` for `mmlu`, `knowledge_crosswords`, `hellaswag`, 
 }
 ```
 
-ACL bibtex coming soon. PRs are welcome for any issues or improvements. Enjoy AbstainQA!
+PRs are welcome for any issues or improvements. Enjoy AbstainQA!
