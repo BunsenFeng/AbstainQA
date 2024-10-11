@@ -151,7 +151,7 @@ if __name__ == "__main__":
             for i in range(len(test_embeddings)):
                 test_embedding = test_embeddings[i].unsqueeze(0)
                 abstain_flag, abstain_score = test_linear_model(linear_model, test_embedding)
-                abstain_flags.append(abstain_flag.item())
+                abstain_flags.append(1-abstain_flag.item())
                 abstain_scores.append(abstain_score)
 
     if phase == "two":   
